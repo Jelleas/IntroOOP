@@ -15,7 +15,7 @@ However these two functions are designed for a bankaccount. They should only ope
 
     print "HeLlO".lower()
     
-We can achieve the same syntax for our bankaccount program by introducing objects. However, you've already worked with objects. For instance the string \"HeLlO\" is an object. An object itself is just a programming concept, a way of thinking about a part of your program. For our program we could use a bankaccount object, so an object that models a bankaccount, similarly as a string object models a string. However there's no bankaccount by default in Python because why would there be? So we need to introduce our own. To do this we need to create a class as follows:
+We can achieve the same syntax for our bankaccount program by introducing objects. However, you've already worked with objects. For instance the string "HeLlO" is an object. An object itself is just a programming concept, a way of thinking about a part of your program. For our program we could use a bankaccount object, so an object that models a bankaccount, similarly as a string object models a string. However there's no bankaccount by default in Python because why would there be? So we need to introduce our own. To do this we need to create a class as follows:
 
     class Bank_account:
         pass
