@@ -77,7 +77,7 @@ numbers you choose!
 
   ![TCP1!](pset41.png)
 
-14. (5 points) 􀄻is time, we want to send three TCP segments, but one of the segments got dropped
+14. (5 points) This time, we want to send three TCP segments, but one of the segments got dropped
 on its way from one host to another. Again, all segments are 32 bytes in size. Fill in the 3 blanks
 below, and explain your reasoning for the numbers you choose!
 
