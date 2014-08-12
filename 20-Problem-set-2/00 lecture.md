@@ -1,3 +1,5 @@
+# Hardware, continued
+
 ### Lecture
 * [Lecture Video](http://cse1.net/video?v=lectures/2/lecture2)
 
