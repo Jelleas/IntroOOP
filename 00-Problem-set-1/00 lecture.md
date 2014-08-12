@@ -4,3 +4,7 @@
 ### Recaps
 * [Power Up](http://cse1.net/recaps/1-powerup.html)
 * [Binary, ASCII, and Everything in Bit-ween](http://cse1.net/recaps/2-binary.html)
+
+### References
+* [First Look: iPhone 5](https://www.youtube.com/watch?v=rdIWKytq_q4)
+* [HDMI Cables](https://www.mint.com/blog/trends/the-rip1/)
