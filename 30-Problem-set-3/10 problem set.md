@@ -15,7 +15,7 @@ If in doubt as to the appropriateness of some act, contact the staff. All forms 
 are dealt with harshly.
 
 ### Route 66
-1. (3points) Recall that sites like http://en.dnstools.ch/visual-traceroute.html and http://traceroute.monitis.com
+1. (3 points) Recall that sites like http://en.dnstools.ch/visual-traceroute.html and http://traceroute.monitis.com
 let you run traceroute from within your browser! In approximately which geographic location are
 each of the following sites hosted? What is an IP address associated with each of these sites?
   1. cse1.net
