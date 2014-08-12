@@ -14,7 +14,7 @@ job) must be approved by the staff.
 If in doubt as to the appropriateness of some act, contact the staff. All forms of academic dishonesty
 are dealt with harshly.
 
-### Route 66
+### 1. Route 66
 1. (3 points) Recall that sites like http://en.dnstools.ch/visual-traceroute.html and http://traceroute.monitis.com
 let you run traceroute from within your browser! In approximately which geographic location are
 each of the following sites hosted? What is an IP address associated with each of these sites?
@@ -29,7 +29,7 @@ mean for IPv6 to be necessary?
 to their destination. Why might this be the case? Do all routers know how to get to every IP
 address on the Internet?
 
-### Private Eye-P
+### 2. Private Eye-P
 4. (2 points) What’s the difference between a public IP and a private IP? What are some common
 prefixes for private IP addresses?
 
@@ -38,7 +38,7 @@ address? How does a server’s response make its way back to my computer?
 
 6. (2 points) How does your computer acquire an IP address on a network using DHCP?
 
-### A System for Domains
+### 3. A System for Domains
 7. (2 points) Why is it important that root DNS servers are kept secure? What could happen if
 one were ever compromised?
 
@@ -51,7 +51,7 @@ subdomain won’t be redirected immediately when you access the Internet. Why no
 10. (1 point) I’m lucky enough to say that my initials are a recognized TLD! (I’ll have to fly to
 Turkmenistan to thank them someday.) Can you say the same for your initials?
 
-### Debate Team
+### 4. Debate Team
 11. (5 points) Let’s talk about net neutrality. If you’re unfamiliar with the topic, you might want to
 curl up with some readings like http://theopeninter.net, http://www.scientificcamerican.com/article.cfm?id=longlive-
 the-web, and http://arstechnica.com/tech-policy/news/2011/01/huge-isps-want-per-gb-paymentsfrom-
@@ -62,7 +62,7 @@ user’s perspective!
 12. (2 points) Why might a company like Google or Facebook want to expose its data via an
 API?
 
-### Putting it All Together
+### 5. Putting it All Together
 13. (5 points) You just typed http://youtu.be/C_S5cXbXe-4 into your web browser’s address bar
 and hit Enter, at which point a YouTube video appears on a page. In a technically detailed paragraph,
 what happened? You can assume that you are indeed connected to the Internet and that
