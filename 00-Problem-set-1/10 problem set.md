@@ -15,7 +15,7 @@ job) must be approved by the staff.<br/>
 If in doubt as to the appropriateness of some act, contact the staff. All forms of academic dishonesty
 are dealt with harshly.
 
-### Mother, I'm bored.
+### 1. Mother, I'm bored.
 1. (2 points each) Below is a motherboard with 7 unlabeled parts (lettered A–G, to be clear). For each of these letters, tell us:
     * What the component is called
     * What the component is used for (e.g., what devices plug into it)
@@ -25,7 +25,7 @@ are dealt with harshly.
 2. (5 points) In a succinct but technically detailed paragraph, what happens when you turn on your
 computer?
 
-### Windows Explorer
+### 2. Windows Explorer
 3. (3 points) Time for some exploring! Let’s get to know your computer a little better. Tell us the
 following about the computer you have at home or at work:
     * Brand and model
@@ -35,14 +35,14 @@ following about the computer you have at home or at work:
     * Display resolution and size
     * Operating system
 
-### Power Shopping
+### 3. Power Shopping
 4. (3 points) I just purchased a new computer monitor with only a DVI port. Sadly, my laptop
 only has a slot for an HDMI cable. Am I out of luck? Why or why not? My sister’s laptop, on the
 other hand, has a slot for a VGA cable, should I just give the monitor to her? Why or why not?
 
 5. (2 points) So, should you spend $250 on an HDMI cable? Why or why not?
 
-### A Bit of Binary
+### 4. A Bit of Binary
 8. (2 points each) Convert the following numbers from decimal to binary, showing each step.
     * 50
     * 164
