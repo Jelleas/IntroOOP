@@ -78,7 +78,7 @@ over an HDD?
 ### 6. Bargain Hunter
 12. (8 points) Congratulations! You’ve just won the E-1 lottery, which has a prize of 1400 <sub>virtual</sub>
 dollars! You can claim your prize on one condition: you can only spend your winnings on a new
-computer. First, check out Ben’s section video on shopping for laptop and desktop computers,
+computer. First, check out Ben’s section [video](http://cse1.net/video?v=sections/2/purchasing_laptops_and_desktops/purchasing_laptops_and_desktops) on shopping for laptop and desktop computers,
 where he discusses the advantages and disadvantages of both. Now, it’s your turn to purchase yourself
 a brand new computer. Head to your local computer store to get a sense of your options, and
 feel free to ask questions of the store’s employees! (You probably don’t want to tell them that your
