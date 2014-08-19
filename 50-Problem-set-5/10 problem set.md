@@ -1,7 +1,7 @@
 # Multimedia
 
 ### Lecture
-* [Lecture Video](http://cse1.net/video?v=lectures/5/lecture5) [Youtube](https://www.youtube.com/watch?v=-R2uBgcw600)
+* [Lecture Video](http://cse1.net/video?v=lectures/5/lecture5) [[Youtube](https://www.youtube.com/watch?v=-R2uBgcw600)]
 
 ### Recaps
 * [Picture This](http://cse1.net/recaps/12-graphics.html)
