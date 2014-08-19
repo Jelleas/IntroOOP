@@ -17,8 +17,8 @@ to re-read them during your practice session!
 
 From Think Python, read chapters:
 
-* 3 Functions
-* 6.1 -- 6.5 Fruitful functions
-* 7.5 -- 7.7 Algorithms
-* 10 Lists
-* Appendix A Debugging
+* 3 [Functions](http://www.greenteapress.com/thinkpython/html/thinkpython004.html)
+* 6.1 -- 6.5 [Fruitful functions](http://www.greenteapress.com/thinkpython/html/thinkpython007.html)
+* 7.5 -- 7.7 [Algorithms](http://www.greenteapress.com/thinkpython/html/thinkpython008.html#toc82)
+* 10 [Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
+* Appendix A [Debugging](http://www.greenteapress.com/thinkpython/html/thinkpython021.html)
