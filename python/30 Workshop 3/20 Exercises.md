@@ -1,4 +1,4 @@
-# 4.0 Your First Class - Queue
+# 3.0 Your First Class - Queue
 
 This exercise, plus the remaining written questions (3.10 - 3.11) will be the start of our journey into object-oriented
 programming; we suggest you do these written exercises before tackling this question.
@@ -33,8 +33,8 @@ When you’re done, you should test your implementation. Your results should loo
 Be sure to handle that last case correctly - when popping from an empty Queue, print a message rather than
 throwing an error.
 
-# 4.1 Your second Class - Stack
-This problem builds on your work in Exercise 4.0. Stacks are the opposite of queues - instead of being ‘first-in­
+# 3.1 Your second Class - Stack
+This problem builds on your work in Exercise 3.0. Stacks are the opposite of queues - instead of being ‘first-in­
 first-out’, they use a ‘last-in-first-out’ (LIFO) strategy. Think of them like a pop-up stack of plates at a restaurant;
 the first plate put in will be the last one pulled out and used. Again, check out Wikipedia for a more in-depth
 explanation.
