@@ -1,4 +1,4 @@
-# Welcome to workshop 4!
+# Welcome to workshop 3!
 
 In this workshop, you'll learn about:
 
