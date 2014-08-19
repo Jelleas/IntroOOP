@@ -9,7 +9,7 @@ This week you'll learn about:
 * plotting; and
 * lists.
 
-Please prepare for this day using the readings below. They will not always 
+Please prepare using the readings below. They will not always 
 immediately make sense without practice, but that's no problem. You may want 
 to re-read them during your practice session!
 
