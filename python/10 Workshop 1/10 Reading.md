@@ -1,4 +1,4 @@
-# The first week
+# The first workshop
 
 This workshop will guide your first week of Python programming. You'll learn
 about communicating with the user, and about strings, loops and `if` statements.
