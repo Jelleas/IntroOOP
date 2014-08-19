@@ -6,7 +6,7 @@ This, you'll learn about three ways to store data in your program.
 * Dictionaries.
 * Tuples.
 
-Please prepare for this day using the readings below. They will not always
+Please prepare using the readings below. They will not always
 immediately make sense without practice, but that's no problem. You may want
 to re-read them after this practice session!
 
