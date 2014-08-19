@@ -1,0 +1,9 @@
+name: w2
+form: true
+required:
+    - lastweek.py
+    - homework2.py
+    - pyplot.py
+optional:
+    - pig_latin.py
+    - comprehensions.py
