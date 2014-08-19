@@ -11,10 +11,10 @@ during the week, and you will start to see the light.
 
 From Think Python, read chapters:
 
-* 1 The way of the program
-* 2 Variables, expressions and statements
-* 5.1 -- 5.7 Conditionals
-* 7.1 -- 7.4 Iteration
+* 1 [The way of the program](http://www.greenteapress.com/thinkpython/html/thinkpython002.html)
+* 2 [Variables, expressions and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
+* 5.1 -- 5.7 [Conditionals](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
+* 7.1 -- 7.4 [Iteration](http://www.greenteapress.com/thinkpython/html/thinkpython008.html)
 
 You are required to mark all sections that you find hard to understand. You
 must also write down any questions that pop up during reading.
