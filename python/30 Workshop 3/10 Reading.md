@@ -1,6 +1,6 @@
-# Welcome to week 3!
+# Welcome to workshop 3!
 
-This, you'll learn about three ways to store data in your program.
+This week, you'll learn about three ways to store data in your program.
 
 * Lists, lists and lists.
 * Dictionaries.
