@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In problem set 5, you will build a program to monitor news feeds over the Internet. Your
+In this programs section, you will build a program to monitor news feeds over the Internet. Your
 program will filter the news, alerting the user when it notices a news story that matches that
 user’s interests (for example, the user may be interested in a notification whenever a story related
 to the Red Sox is posted).
@@ -12,12 +12,6 @@ This problem set has a lot of words, but don’t get intimidated! The staff solu
 about 20 lines of code (the solutions for some problems will be much shorter than that). If you
 find yourself writing way more code than that, you should come visit us at office hours to see
 how you can simplify things.
-
-We recommend starting early because there is a lot of reading here, but you ought to be able to
-do this problem set sequentially in the order that we’ve laid out. There are a lot of references on
-Python classes available (look for classes in the readings listed in the Readings & Reference
-Section of the webpage); here is the official Python tutorial on classes, sections 9.1-9.7
-(excepting 9.5.1) will be useful for this pset.
 
 ### Getting Started
 
@@ -148,7 +142,7 @@ implementation of the Trigger class (which is why it throws an exception should 
 to use it), but rather the function definition that specifies that an evaluate(self, story) function
 should exist.
 
-The class below implements the Trigger interface (you will not modify this). Any subclass that
+The class below implements the Trigger interface __(you will not modify this)__. Any subclass that
 inherits from it will have an evaluate method. By default, they will use the evaluate method in
 Trigger, the superclass, unless they define their own evaluate function, which would then be used
 instead. If some subclass neglects to define its own evaluate() method, calls to it will go to
@@ -335,95 +329,6 @@ and a list of triggers, and returns only the stories which a trigger fires for.
 After completing Problem 10, you can try running *ps5.py*, and various RSS news items should
 pop up, filtered by some hard-coded triggers defined for you in some code near the bottom. The
 code runs an infinite loop, checking the RSS feed for new stories every 60 seconds.
-
-## Part IV: User-Specified Triggers
-
-Right now, your triggers are specified in your Python code, and to change them, you have to edit
-your program. This is very user-unfriendly. (Imagine if you had to edit the source code of your
-web browser every time you wanted to add a bookmark!)
-
-Instead, we want you to read your trigger configuration from a *triggers.txt* file, every time
-your application starts, and use the triggers specified there.
-
-Consider the following example configuration file:
-
-    # subject trigger named t1
-    t1 SUBJECT world
-    # title trigger named t2
-    t2 TITLE Intel
-    # phrase trigger named t3
-    t3 PHRASE New York City
-    # composite trigger named t4
-    t4 AND t2 t3
-    # the trigger set contains t1 and t4
-    ADD t1 t4
-
-The example file specifies that four triggers should be created, and that two of those triggers
-should be added to the trigger set:
-
-* A trigger that fires when a subject contains the word ‘world’ (t1).
-* A trigger that fires when the title contains the word ‘intel’ and
-the news item contains the phrase ‘New York City’ somewhere (t4).
-
-The two other triggers (t2 and t3) are created but not added to the trigger set directly. They are
-used as arguments for the composite AND trigger’s definition.
-Each line in this file does one of the following:
-
-* is blank
-* is a comment (begins with a
-#)
-* defines a named trigger
-* adds triggers to the trigger
-set.
-
-Each type of line is described below.
-
-**Blank:** blank lines are ignored. A line that consists only of whitespace is a blank line.
-
-**Comments:** Any line that begins with a # character is ignored.
-
-**Trigger definitions:** Lines that do not begin with the keyword ADD define named triggers. The
-first element in a trigger definition is the name of the trigger. The name can be any combination
-of letters without spaces, except for “ADD”. The second element of a
-trigger definition is a keyword (e.g., TITLE, PHRASE, etc.) that specifies the kind of trigger being
-defined. The remaining elements of the definition are the trigger arguments. What arguments are
-required depends on the trigger type:
-
-* **TITLE:** a single word.
-* **SUBJECT:** a single word.
-* **SUMMARY:** a single word.
-* **NOT:** the name of the trigger that will be NOT’d.
-* **AND:** the names of the two other triggers that will be AND’d.
-* **OR:** the names of the two other triggers that will be OR’d.
-* **PHRASE:** a phrase.
-
-**Trigger addition:** A trigger definition should create a trigger and associate it with a name but
-should not automatically add that trigger to the trigger set. One or more ADD lines in the .txt file
-will specify which triggers should be in the trigger set. An addition line begins with the ADD
-keyword. Following ADD are the names of one or more previously defined triggers. These triggers
-will be added to the the trigger set.
-
-#### Problem 11.
-
-Finish implementing *readTriggerConfig(filename)*. We’ve written code to open the file and
-throw away all the lines that don’t begin with instructions (e.g. comments, blank spaces). Your
-job is to finish the implementation. *readTriggerConfig* should return the list of triggers
-specified in the configuration file.
-
-Once that’s done, modify the code within the function *main_thread* to use the trigger list
-specified in your configuration file, instead of the one we hard-coded for you:
-
-    # TODO: Problem 11
-    # After implementing readTriggerConfig, uncomment this line:
-    # triggerlist = readTriggerConfig("triggers.txt")
-
-After completing Problem 11, you can try running ps5.py, and depending on your triggers.txt
-file, various RSS news items should pop up for easy reading. The code runs an infinite loop,
-checking the RSS feed for new stories every 60 seconds.
-
-**Hint:** If no stories are popping up, open up triggers.txt and change the triggers to ones that
-reflect current events (if you don’t keep up, just pick a trigger that would fire on one of the
-current Google news stories).
 
 ## Handin Procedure
 
