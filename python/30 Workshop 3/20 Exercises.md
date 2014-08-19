@@ -121,42 +121,6 @@ For every problem, check the following:
   more tests if the problem prescribes this?
 * Do the tests give the expected output?
 
-# 3.3 Recursion
-
-For each of these parts, you need to write one function with three tests!
-
-1. Write a function that takes in two numbers and recursively multiplies them
-   together.
-
-2. Write a function that takes in a $$"base"$$ and an $$"exp"$$ and recursively
-   computes $$"base"^"exp"$$.
-
-3. Write a function using recursion to print numbers from $$n$$ to 0.
-
-4. Write a function using recursion to print numbers from 0 to $$n$$ (you just
-   need to change one line in the program of problem 1).
-
-5. Write a function using recursion that takes in a string and returns a
-   reversed copy of the string. The only string operation you are allowed to use
-   is string concatenation (recall how you concatenate two strings?).
-
-6. Write a function using recursion to check if a number $$n$$ is prime (you have
-   to check whether $$n$$ is divisible by any number below $$n$$).
-
-7. Write a recursive function that takes in one argument $$n$$ and computes
-   $$F_n$$, the $$n$$-th value of the Fibonacci sequence. The Fibonacci
-   sequence is defined by the relation:
-
-   $$F_n = F_(n−1) + F_(n−2)$$
-
-   but
-   
-   $$F_0 = 0$$ and $$F_1 = 1$$
-
-   Visit the Wikipedia page on the [Fibonacci Number] for more information if
-   you're still confused.
-
-[Fibonacci Number]: http://en.wikipedia.org/wiki/Fibonacci_number
 
 # Hacker: Zeller's Algorithm, revisited
 
