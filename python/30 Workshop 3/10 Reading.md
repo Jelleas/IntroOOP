@@ -1,10 +1,11 @@
-# Welcome to workshop 3!
+# Welcome to workshop 4!
 
-This week, you'll learn about three ways to store data in your program.
+In this workshop, you'll learn about:
 
-* Lists, lists and lists.
-* Dictionaries.
-* Tuples.
+* Classes.
+* Objects.
+* Methods.
+* Inheritance.
 
 Please prepare using the readings below. They will not always
 immediately make sense without practice, but that's no problem. You may want
@@ -14,8 +15,7 @@ to re-read them after this practice session!
 
 From Think Python, read chapters:
 
-* 5.8 -- 5.12 [Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html#toc59)
-* 8.1 -- 8.4 [Strings](http://www.greenteapress.com/thinkpython/html/thinkpython009.html)
-* 11 [Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
-* 12 [Tuples](http://www.greenteapress.com/thinkpython/html/thinkpython013.html)
-* 14.1 -- 14.5 [Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)
+* 15 [Classes and Objects](http://www.greenteapress.com/thinkpython/html/thinkpython016.html)
+* 16 [Classes and Functions](http://www.greenteapress.com/thinkpython/html/thinkpython017.html)
+* 17 [Classes and Methods](http://www.greenteapress.com/thinkpython/html/thinkpython018.html)
+* 18 [Inheritance](http://www.greenteapress.com/thinkpython/html/thinkpython019.html)
