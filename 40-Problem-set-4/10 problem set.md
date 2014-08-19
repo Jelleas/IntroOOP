@@ -1,7 +1,7 @@
 # Internet, continued
 
 ### Lecture
-* [Lecture Video](http://cse1.net/video?v=lectures/4/lecture4)
+* [Lecture Video](http://cse1.net/video?v=lectures/4/lecture4) [[Youtube](https://www.youtube.com/watch?v=3motf4wqHLI)]
 
 ### Recaps
 * [Protocol Me, Maybe](http://cse1.net/recaps/9-protocols.html)
@@ -15,20 +15,6 @@
 * [Warriors of the Net](https://www.youtube.com/watch?v=Ve7_4ot-Dzs)
 
 # PROBLEM SET 4
-
-### Academic Honesty
-All work that you do toward fulfillment of this course’s expectations must be your own unless collaboration
-is explicitly allowed by the staff. Viewing, requesting, or copying another individual’s
-work or lifting material from a book, magazine, website, or other source—even in part—and presenting
-it as your own constitutes academic dishonesty, as does showing or giving your work, even
-in part, to another student.
-Similarly is dual submission academic dishonesty: you may not submit the same or similar work
-to this course that you have submitted or will submit to another. Nor may you provide or make
-available solutions to homework or exams to individuals who take or may take this course in the
-future. Moreover, submission of any work that you intend to use outside of the course (e.g., for a
-job) must be approved by the staff.
-If in doubt as to the appropriateness of some act, contact the staff. All forms of academic dishonesty
-are dealt with harshly.
 
 ### 1. Protocolor by Numbers
 1. (2 points) We’ve seen a whole lot of acronyms that end in the letter “P”: DHCP, HTTP, SMTP,
