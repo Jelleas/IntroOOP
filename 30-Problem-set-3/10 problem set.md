@@ -1,7 +1,7 @@
 # Internet
 
 ### Lecture
-* [Lecture Video](http://cse1.net/video?v=lectures/3/lecture3)
+* [Lecture Video](http://cse1.net/video?v=lectures/3/lecture3) [[Youtube](https://www.youtube.com/watch?v=ceNymKd71yg)]
 
 ### Recaps
 * [Project Interweb: Make it Network](http://cse1.net/recaps/6-internet.html)
@@ -18,20 +18,6 @@
 * [World IPv6 Day](http://www.worldipv6launch.org/)
 
 # PROBLEM SET 3
-
-### Academic Honesty
-All work that you do toward fulfillment of this course’s expectations must be your own unless collaboration
-is explicitly allowed by the staff. Viewing, requesting, or copying another individual’s
-work or lifting material from a book, magazine, website, or other source—even in part—and presenting
-it as your own constitutes academic dishonesty, as does showing or giving your work, even
-in part, to another student.
-Similarly is dual submission academic dishonesty: you may not submit the same or similar work
-to this course that you have submitted or will submit to another. Nor may you provide or make
-available solutions to homework or exams to individuals who take or may take this course in the
-future. Moreover, submission of any work that you intend to use outside of the course (e.g., for a
-job) must be approved by the staff.
-If in doubt as to the appropriateness of some act, contact the staff. All forms of academic dishonesty
-are dealt with harshly.
 
 ### 1. Route 66
 1. (3 points) Recall that sites like http://en.dnstools.ch/visual-traceroute.html and http://traceroute.monitis.com
