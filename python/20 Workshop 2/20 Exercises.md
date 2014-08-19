@@ -299,7 +299,7 @@ When you're finished, test each other's programs by playing them!
 
 # 2.10 Report Card with GPA
 
-This exercise and most others should be going into a file called `homework2.py`.
+This exercise should be going into a file called `gpa.py`.
 
 Write a function report card where the user can enter each of his grades,
 after which the program prints out a report card with GPA (*see* [Urban
@@ -324,6 +324,8 @@ of names and grades seperately; there are a couple ways to do this. Remember,
 add to lists with `my_list.append(elt)`.
 
 # 2.11 More About Dictionaries
+
+This exercise should be going into a file called `homework2.py`.
 
 Put these lists in your code:
 
@@ -361,7 +363,7 @@ For every problem, check the following:
 * Have you added the problem to the right Python file?
 * Have you put your name on top of that file?
 * Have you made sure the program is NOT interactive (e.g. we don't have to type
-  anything) except 3.1?
+  anything) except 2.1?
 * Have you written at least three tests to show the program is correct, or even
   more tests if the problem prescribes this?
 * Do the tests give the expected output?
