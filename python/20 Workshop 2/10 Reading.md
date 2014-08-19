@@ -6,8 +6,10 @@ This week you'll learn about:
 * functions and methods;
 * returning values;
 * `random`;
-* plotting; and
-* lists.
+* plotting;
+* lists, lists and lists;
+* dictionaries; and
+* tuples.
 
 Please prepare using the readings below. They will not always 
 immediately make sense without practice, but that's no problem. You may want 
