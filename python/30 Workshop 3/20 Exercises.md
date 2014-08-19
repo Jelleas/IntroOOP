@@ -1,7 +1,7 @@
 # 3.0 Your First Class - Queue
 
-This exercise, plus the remaining written questions (3.10 - 3.11) will be the start of our journey into object-oriented
-programming; we suggest you do these written exercises before tackling this question.
+This exercise, plus the remaining questions will be the start of our journey into object-oriented
+programming; we suggest you do these questions before tackling this question.
 For this exercise, you will be coding your very first class, a Queue class. Queues are a fundamental computer science
 data structure. A queue is basically like a line at Disneyland - you can add elements to a queue, and they maintain
 a specific order. When you want to get something off the end of a queue, you get the item that has been in there
