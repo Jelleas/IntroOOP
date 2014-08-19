@@ -1,7 +1,7 @@
 # Hardware
 
 ### Lecture
-* [Lecture Video](http://cse1.net/video?v=lectures/1/lecture1)
+* [Lecture Video](http://cse1.net/video?v=lectures/1/lecture1) [[Youtube](https://www.youtube.com/watch?v=Q2mOfJSG7rc)]
 
 ### Recaps
 * [Power Up](http://cse1.net/recaps/1-powerup.html)
