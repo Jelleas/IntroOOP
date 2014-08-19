@@ -38,32 +38,38 @@ address? How does a server’s response make its way back to my computer?
 
 6. (2 points) How does your computer acquire an IP address on a network using DHCP?
 
-### 3. A System for Domains
-7. (2 points) Why is it important that root DNS servers are kept secure? What could happen if
+### 3. Speed Racer
+7. (3 points) Let’s test the Internet connection you have at home or at work. First, what are the
+download and upload speeds of your connection, according to your ISP? Now, using http://www.speedtest.net
+or http://www.whatismyip.com/speed-test, what are the actual download and upload speeds of your
+Internet connection? Is there a difference between what your ISP reports and what the tests report?
+
+### 4. A System for Domains
+8. (2 points) Why is it important that root DNS servers are kept secure? What could happen if
 one were ever compromised?
 
-8. (2 points) What’s the difference between an A record and a CNAME record? When might
+9. (2 points) What’s the difference between an A record and a CNAME record? When might
 you want to use one over the other?
 
-9. (2 points) When you change DNS record, there’s a good chance the change in your domain or
+10. (2 points) When you change DNS record, there’s a good chance the change in your domain or
 subdomain won’t be redirected immediately when you access the Internet. Why not?
 
-10. (1 point) I’m lucky enough to say that my initials are a recognized TLD! (I’ll have to fly to
+11. (1 point) I’m lucky enough to say that my initials are a recognized TLD! (I’ll have to fly to
 Turkmenistan to thank them someday.) Can you say the same for your initials?
 
-### 4. Debate Team
-11. (5 points) Let’s talk about net neutrality. If you’re unfamiliar with the topic, you might want to
+### 5. Debate Team
+12. (5 points) Let’s talk about net neutrality. If you’re unfamiliar with the topic, you might want to
 curl up with some readings like http://theopeninter.net, http://www.scientificcamerican.com/article.cfm?id=longlive-
 the-web, and http://arstechnica.com/tech-policy/news/2011/01/huge-isps-want-per-gb-paymentsfrom-
 netflix-youtube.ars. In a short paragraph, tell us where you stand on the issue and why! To
 get you thinking, consider how net neutrality affects economics, freedom, and fairness from an Internet
 user’s perspective!
 
-12. (2 points) Why might a company like Google or Facebook want to expose its data via an
+13. (2 points) Why might a company like Google or Facebook want to expose its data via an
 API?
 
-### 5. Putting it All Together
-13. (5 points) You just typed http://youtu.be/C_S5cXbXe-4 into your web browser’s address bar
+### 6. Putting it All Together
+14. (5 points) You just typed http://youtu.be/C_S5cXbXe-4 into your web browser’s address bar
 and hit Enter, at which point a YouTube video appears on a page. In a technically detailed paragraph,
 what happened? You can assume that you are indeed connected to the Internet and that
 URL points to a valid page on YouTube (which it does, so you should click it). Your response
