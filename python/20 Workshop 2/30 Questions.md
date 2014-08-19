@@ -13,13 +13,13 @@ get stuck).
 
 |expression                           |value                               |
 |-------------------------------------|------------------------------------|
-|`look[:4]`                           |<input name="a[2-12-1]" type="text">|
-|`look[-1]`                           |<input name="a[2-12-2]" type="text">|
-|`look*2`                             |<input name="a[2-12-3]" type="text">|
-|`look[:-1] + now + look[-1]`         |<input name="a[2-12-4]" type="text">|
-|`now[1]`                             |<input name="a[2-12-5]" type="text">|
-|`now[4]`                             |<input name="a[2-12-6]" type="text">|
-|`look*2 + look[:-1] + now + look[-1]`|<input name="a[2-12-7]" type="text">|
+|`look[:4]`                           |<input name="a[2-1-1]" type="text">|
+|`look[-1]`                           |<input name="a[2-1-2]" type="text">|
+|`look*2`                             |<input name="a[2-1-3]" type="text">|
+|`look[:-1] + now + look[-1]`         |<input name="a[2-1-4]" type="text">|
+|`now[1]`                             |<input name="a[2-1-5]" type="text">|
+|`now[4]`                             |<input name="a[2-1-6]" type="text">|
+|`look*2 + look[:-1] + now + look[-1]`|<input name="a[2-1-7]" type="text">|
 
 For more on strings, see [the Python docs](http://docs.python.org/release/2.7.5/library/stdtypes.html#string-methods).
 
@@ -36,15 +36,15 @@ More on lists: [the Python docs](http://docs.python.org/release/2.7.5/tutorial/d
 
 1.	Output: `3`
 
-	<textarea name="a[2-13-1]"></textarea>
+	<textarea name="a[2-2-1]"></textarea>
 
 2.	Output: `12`
 
-	<textarea name="a[2-13-2]"></textarea>
+	<textarea name="a[2-2-2]"></textarea>
 
 3.	Output: `[5, 6, 12]`
 
-	<textarea name="a[2-13-3]"></textarea>
+	<textarea name="a[2-2-3]"></textarea>
 
 4.	Output:
 
@@ -53,19 +53,19 @@ More on lists: [the Python docs](http://docs.python.org/release/2.7.5/tutorial/d
 		6
 		12
 
-	<textarea name="a[2-13-4]"></textarea>
+	<textarea name="a[2-2-4]"></textarea>
 
 5.	Output: `[12, 6, 5, 3]`
 
-	<textarea name="a[2-13-5]"></textarea>
+	<textarea name="a[2-2-5]"></textarea>
 
 6.	Output: `[9, 15, 18, 36]`
 
-	<textarea name="a[2-13-6]"></textarea>
+	<textarea name="a[2-2-6]"></textarea>
 
 7.	Output: `[False, False, True, True]`
 
-	<textarea name="a[2-13-7]"></textarea>
+	<textarea name="a[2-2-7]"></textarea>
 
 ## Mutability
 
@@ -76,11 +76,11 @@ characteristic.
 
 Mutable:
 
-<textarea name="a[3-1-1]"></textarea>
+<textarea name="a[2-3-1]"></textarea>
 
 Immutable:
 
-<textarea name="a[3-1-2]"></textarea>
+<textarea name="a[2-3-2]"></textarea>
 
 ## Finding Bugs
 
@@ -107,11 +107,11 @@ Additionally, write some code to test your functions.
 
 Bugs:
 
-1. <textarea name="a[3-2-1]"></textarea>
+1. <textarea name="a[2-4-1]"></textarea>
 
-2. <textarea name="a[3-2-2]"></textarea>
+2. <textarea name="a[2-4-2]"></textarea>
 
-3. <textarea name="a[3-2-3]"></textarea>
+3. <textarea name="a[2-4-3]"></textarea>
 
 ## A Mystery Program
 
@@ -140,29 +140,29 @@ assistants. Help us figure out what it does!
 1. The while loop exits when the variable right answer is True. What will
    cause right answer to be true?
 
-   <textarea name="a[3-3-1]"></textarea>
+   <textarea name="a[2-5-1]"></textarea>
 
 2. How many times will the program print out 'Woohoo! I got it!'?
 
-   <textarea name="a[3-3-2]"></textarea>
+   <textarea name="a[2-5-2]"></textarea>
 
 3. What are we using the variable answer for?
 
-   <textarea name="a[3-3-3]"></textarea>
+   <textarea name="a[2-5-3]"></textarea>
 
 4. The program makes a guess in line 8. What user responses will be understood
    by the program after it makes its guess?
 
-   <textarea name="a[3-3-4]"></textarea>
+   <textarea name="a[2-5-4]"></textarea>
 
 5. If the program gets the response 'higher', what does that tell it about its
    guess?
 
-   <textarea name="a[3-3-5]"></textarea>
+   <textarea name="a[2-5-5]"></textarea>
 
 6. What are the variables min n, max n and mid n used for?
 
-   <textarea name="a[3-3-6]"></textarea>
+   <textarea name="a[2-5-6]"></textarea>
 
 This is an example of binary search, a simple but important algorithm in
 computer science. If you're curious, or confused, read the Wikipedia article
