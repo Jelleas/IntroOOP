@@ -1,4 +1,4 @@
-# Welcome to week 2!
+# Welcome to workshop 2!
 
 This week you'll learn about:
 
